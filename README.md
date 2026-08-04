@@ -71,18 +71,15 @@ interested_in:
 💻 Strong in Java & MERN Stack
 
 ## 🚀 Featured Projects
-### 🛰️ RescueRoute AI — Satellite Intelligence for Disaster-Safe Emergency Routing
+### 🛰️ RescueRoute AI — AI-Powered Disaster Response Platform
 
-AI-powered disaster response platform that combines satellite imagery, road accessibility analysis, and intelligent routing to help emergency teams identify safe roads and reach affected locations faster. :contentReference[oaicite:0]{index=0}
+Satellite intelligence platform for emergency routing using road accessibility analysis, disaster simulation, and intelligent path planning.
 
-- **🛰️ Satellite Intelligence:** Compare before/after disaster imagery with road damage visualization and accessibility confidence scoring. :contentReference[oaicite:1]{index=1}
-- **🗺️ Intelligent Routing:** A*-based routing engine generates the **Fastest**, **Safest**, and **Priority** routes based on real-time road conditions and emergency vehicle type. :contentReference[oaicite:2]{index=2}
-- **⚡ Real-Time Updates:** Socket.IO-powered disaster alerts automatically detect road blockages and recalculate safer routes during changing conditions. :contentReference[oaicite:3]{index=3}
-- **📊 Disaster Command Center:** Interactive dashboard with accessibility heatmaps, disaster analytics, offline routing simulation, and AI segmentation workflow. :contentReference[oaicite:4]{index=4}
-- **🛠️ Stack:** React.js, Vite, Tailwind CSS, Node.js, Express.js, FastAPI, Socket.IO, MongoDB, Redis, Mapbox GL JS, Docker. :contentReference[oaicite:5]{index=5}
-
-**🔗 Live Demo:** Coming Soon  
-**📂 GitHub:** `https://github.com/Anveshreddy2006/vnr`
+- **Satellite Analysis:** Before/after imagery comparison with AI-based road damage visualization
+- **Routing:** A*-based Fastest, Safest & Priority route generation using accessibility scores
+- **Real-Time:** Live disaster alerts with automatic route recalculation via Socket.IO
+- **Dashboard:** Interactive Mapbox dashboard with analytics, heatmaps & offline routing
+- **Stack:** React, Node.js, Express.js, FastAPI, MongoDB, Socket.IO, Mapbox GL JS, Redis, Docker
 
 ## 🛠️ Tech Stack
 
