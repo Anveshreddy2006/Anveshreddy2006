@@ -34,29 +34,86 @@
 </p>
 
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
-name: Padidam Anvesh Reddy
-education: B.Tech CSE @ GRIET, Hyderabad
-cgpa: 8.82
+name: Anvesh Reddy
+role: Software Engineer
+college: GRIET Hyderabad
 graduation: 2027
 
-focus:
-  - Data Structures & Algorithms
-  - Full Stack Development
-  - AI/ML
+currently_learning:
   - System Design
+  - LLMs
+  - Agentic AI
 
 currently_building:
-  - AI Resume Screening System
-  - Enterprise RAG Application
-  - MERN + AI Projects
+  - FinSight AI
+  - Enterprise Document Intelligence
+  - AI Resume Screening
+
+interested_in:
+  - Backend Development
+  - Full Stack Development
+  - Artificial Intelligence
 ```
-- 🏆 2× Hackathon Winner
-- 🥇 3× Coding Competition Winner
-- 💻 Solved 500+ DSA Problems
-- 🌱 Currently learning System Design & AI Agents
-- 🎯 Looking for Software Engineering Internships
+
+## 🏆 Achievements
+
+🥇 2× Hackathon Winner
+
+🥉 3× Coding Competition Winner
+
+⭐ Solved 800+ DSA Problems
+
+☁️ AWS Cloud Foundations Certified
+
+💻 Strong in Java & MERN Stack
+
+## 🚀 Featured Projects
+
+| Project | Tech | Description |
+|----------|------|-------------|
+| FitPlan | MERN | AI Fitness Planner |
+| FinSight AI | MERN + Gemini | Personal Finance Platform |
+| Enterprise Document Intelligence | FastAPI + RAG | Chat with PDFs |
+| AI Resume Screening | Python | Resume Ranking |
 
 
+## 🛠 Tech Stack
+
+### Languages
+
+Java • Python • JavaScript • C
+
+### Frontend
+
+React • HTML • CSS • Tailwind
+
+### Backend
+
+Node.js • Express • FastAPI
+
+### Database
+
+MongoDB • MySQL
+
+### AI
+
+LangChain • OpenAI • Gemini • Scikit-learn • Qdrant
+
+### Tools
+
+Git • GitHub • Docker • Postman • VS Code
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Anveshreddy2006&show_icons=true&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=Anveshreddy2006&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anveshreddy2006&layout=compact&theme=tokyonight)
+
+
+
+![](https://komarev.com/ghpvc/?username=Anveshreddy2006)
