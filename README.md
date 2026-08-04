@@ -71,15 +71,69 @@ interested_in:
 💻 Strong in Java & MERN Stack
 
 ## 🚀 Featured Projects
-### 🛰️ RescueRoute AI — AI-Powered Disaster Response Platform
+## 🚀 Featured Projects
 
-Satellite intelligence platform for emergency routing using road accessibility analysis, disaster simulation, and intelligent path planning.
+<table>
+<tr>
 
-- **Satellite Analysis:** Before/after imagery comparison with AI-based road damage visualization
-- **Routing:** A*-based Fastest, Safest & Priority route generation using accessibility scores
-- **Real-Time:** Live disaster alerts with automatic route recalculation via Socket.IO
-- **Dashboard:** Interactive Mapbox dashboard with analytics, heatmaps & offline routing
-- **Stack:** React, Node.js, Express.js, FastAPI, MongoDB, Socket.IO, Mapbox GL JS, Redis, Docker
+<td width="50%" valign="top">
+
+### 💪 Gymfinity — AI Fitness & Diet Planner
+
+Personalized fitness platform generating AI-powered workout and diet plans.
+
+- **Workout:** Gemini-powered personalized workout plans
+- **Diet:** AI-generated nutrition plans with PDF export
+- **Exercises:** Muscle-wise library with YouTube integration
+- **Stack:** React, Node.js, Express.js, MongoDB, Gemini API
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛰️ RescueRoute AI — Disaster Response Platform
+
+Satellite intelligence platform for safe emergency routing.
+
+- **Routing:** A*-based intelligent path planning
+- **Satellite:** Before/After disaster analysis
+- **Dashboard:** Real-time alerts & analytics
+- **Stack:** React, FastAPI, Node.js, MongoDB, Socket.IO
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📄 Enterprise Document Intelligence
+
+Production-grade RAG application for querying PDFs.
+
+- **Retrieval:** Qdrant semantic search
+- **Generation:** OpenAI-powered answers
+- **Pipeline:** LangChain + LlamaIndex
+- **Stack:** Python, FastAPI, Streamlit, OpenAI
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Resume Screening System
+
+NLP-powered application for automated resume classification.
+
+- **Analysis:** TF-IDF based resume processing
+- **Prediction:** ML-powered job role classification
+- **Deployment:** Streamlit on Render
+- **Stack:** Python, Streamlit, Scikit-learn
+
+</td>
+
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
