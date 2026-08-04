@@ -71,13 +71,18 @@ interested_in:
 💻 Strong in Java & MERN Stack
 
 ## 🚀 Featured Projects
+### 🛰️ RescueRoute AI — Satellite Intelligence for Disaster-Safe Emergency Routing
 
-| Project | Tech | Description |
-|----------|------|-------------|
-| FitPlan | MERN | AI Fitness Planner |
-| FinSight AI | MERN + Gemini | Personal Finance Platform |
-| Enterprise Document Intelligence | FastAPI + RAG | Chat with PDFs |
-| AI Resume Screening | Python | Resume Ranking |
+AI-powered disaster response platform that combines satellite imagery, road accessibility analysis, and intelligent routing to help emergency teams identify safe roads and reach affected locations faster. :contentReference[oaicite:0]{index=0}
+
+- **🛰️ Satellite Intelligence:** Compare before/after disaster imagery with road damage visualization and accessibility confidence scoring. :contentReference[oaicite:1]{index=1}
+- **🗺️ Intelligent Routing:** A*-based routing engine generates the **Fastest**, **Safest**, and **Priority** routes based on real-time road conditions and emergency vehicle type. :contentReference[oaicite:2]{index=2}
+- **⚡ Real-Time Updates:** Socket.IO-powered disaster alerts automatically detect road blockages and recalculate safer routes during changing conditions. :contentReference[oaicite:3]{index=3}
+- **📊 Disaster Command Center:** Interactive dashboard with accessibility heatmaps, disaster analytics, offline routing simulation, and AI segmentation workflow. :contentReference[oaicite:4]{index=4}
+- **🛠️ Stack:** React.js, Vite, Tailwind CSS, Node.js, Express.js, FastAPI, Socket.IO, MongoDB, Redis, Mapbox GL JS, Docker. :contentReference[oaicite:5]{index=5}
+
+**🔗 Live Demo:** Coming Soon  
+**📂 GitHub:** `https://github.com/Anveshreddy2006/vnr`
 
 ## 🛠️ Tech Stack
 
